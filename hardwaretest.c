@@ -1,3 +1,11 @@
+/*
+ * File: hardwaretest.c
+ * Author: Justin Mok - Independence High School
+ * Last Modified: Thu, Aug 29, 2019
+ * Description: Houses helper functions
+ *
+ */
+
 #include "hardwaretest.h"
 
 selectedInterface = MOTORS;

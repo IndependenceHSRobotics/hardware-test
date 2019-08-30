@@ -1,3 +1,10 @@
+/*
+ * File: hardwaretest.h
+ * Author: Justin Mok - Independence High School
+ * Last Modified: Thu, Aug 29, 2019
+ * Description: Houses constants and function declarations for hardwaretest 
+ *
+ */
 #ifndef HARDWARETEST_H
 #define HARDWARETEST_H
 

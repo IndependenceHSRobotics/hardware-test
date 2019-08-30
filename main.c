@@ -1,16 +1,14 @@
+/*
+ * File: main.c
+ * Author: Justin Mok - Independence High School
+ * Last Modified: Thu, Aug 29, 2019
+ * Description: Main file providing functionality used in the program
+ *
+ */
+
 #include <kipr/botball.h>
 #include "hardwaretest.c"
 
-/*
-digital0 = switch motor
-digital1 = up
-digital2 = down
-
-lbtn = switch between motor/port
-rbtn = end program
-
-
-*/
 int main() {
     /* Welcome message */
     print('Hardware Test Rewrite', 'IDLE');
